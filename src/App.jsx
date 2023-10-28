@@ -1,9 +1,12 @@
-import Icon from './component/Icon';
+// import Icon from './component/Icon';
+
+import ReactBootstarp from "./component/ReactBootstarp";
 
 const App = () => {
   return (
     <div>
-      <Icon/>
+      {/* <Icon/> */}
+      <ReactBootstarp/>
     </div>
   );
 };
