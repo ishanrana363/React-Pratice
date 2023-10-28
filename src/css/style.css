@@ -1,5 +1,33 @@
-.icon{
-    font-size: 30px;
-    color: gold;
-    padding: 50px;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    margin-left: 100px;
+}
+.increment{
+    width: 100px;
+    width: 100px;
+    font-size: 50px;
+    background-color: #e60d0d;
+    outline: none;
+    border: none;
+}
+.decrement{
+    width: 100px;
+    width: 100px;
+    font-size: 50px;
+    background-color: #e60d0d;
+    outline: none;
+    border: none;
+    margin-left: 30px;
+}
+.reset{
+    width: 100px;
+    height: 80px;
+    background-color: #e60d0d;
+    outline: none;
+    border: none;
+    margin-left: 30px;
 }

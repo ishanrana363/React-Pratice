@@ -1,12 +1,15 @@
 // import Icon from './component/Icon';
 
-import ReactBootstarp from "./component/ReactBootstarp";
+import State from "./component/State";
+
+// import ReactBootstarp from "./component/ReactBootstarp";
 
 const App = () => {
   return (
     <div>
       {/* <Icon/> */}
-      <ReactBootstarp/>
+      {/* <ReactBootstarp/> */}
+      <State/>
     </div>
   );
 };
